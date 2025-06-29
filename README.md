@@ -1,4 +1,4 @@
-# Blockchain Marketplace
+# Marketplace dApp
 
 A decentralized marketplace built with React and Ethereum smart contracts, allowing users to list, purchase, and transfer digital items on the blockchain.
 
